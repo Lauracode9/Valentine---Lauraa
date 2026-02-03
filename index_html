@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Sarai il mio Valentine?</title>
 
-  <!-- Collega il file CSS -->
+  <!-- Collega il file CSS correttamente -->
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -24,7 +24,7 @@
 
   <canvas id="confetti-canvas"></canvas>
 
-  <!-- Collega il file JavaScript -->
+  <!-- Collega il file JavaScript correttamente -->
   <script src="script.js"></script>
 </body>
 </html>
